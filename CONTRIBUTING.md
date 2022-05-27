@@ -1,4 +1,4 @@
-# Contributing to <project name>
+# Contributing to [project name]
 
 Thank you for your interest in contributing to our project! We value all contributions including reporting issues, code contributions and suggestions.
 
