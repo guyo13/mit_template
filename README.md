@@ -1,4 +1,4 @@
-# <project name>
+# [project name]
 
 Project description.
 
@@ -6,5 +6,5 @@ Project description.
 Usage.
 
 ## License
-<project name> is licensed under the MIT license.
+[project name] is licensed under the MIT license.
 See the included license file for details.

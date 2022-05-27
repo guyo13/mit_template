@@ -1,3 +1,3 @@
 # Primary Authors
 
-* <author name> - <description> <email>
+* author name - description email
